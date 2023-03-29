@@ -1,0 +1,15 @@
+C:\Users\50849167825\Desktop\backend\Media-aluno-programa\bin\Debug\net7.0\Media-aluno-programa.exe
+C:\Users\50849167825\Desktop\backend\Media-aluno-programa\bin\Debug\net7.0\Media-aluno-programa.deps.json
+C:\Users\50849167825\Desktop\backend\Media-aluno-programa\bin\Debug\net7.0\Media-aluno-programa.runtimeconfig.json
+C:\Users\50849167825\Desktop\backend\Media-aluno-programa\bin\Debug\net7.0\Media-aluno-programa.dll
+C:\Users\50849167825\Desktop\backend\Media-aluno-programa\bin\Debug\net7.0\Media-aluno-programa.pdb
+C:\Users\50849167825\Desktop\backend\Media-aluno-programa\obj\Debug\net7.0\Media-aluno-programa.csproj.AssemblyReference.cache
+C:\Users\50849167825\Desktop\backend\Media-aluno-programa\obj\Debug\net7.0\Media-aluno-programa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50849167825\Desktop\backend\Media-aluno-programa\obj\Debug\net7.0\Media-aluno-programa.AssemblyInfoInputs.cache
+C:\Users\50849167825\Desktop\backend\Media-aluno-programa\obj\Debug\net7.0\Media-aluno-programa.AssemblyInfo.cs
+C:\Users\50849167825\Desktop\backend\Media-aluno-programa\obj\Debug\net7.0\Media-aluno-programa.csproj.CoreCompileInputs.cache
+C:\Users\50849167825\Desktop\backend\Media-aluno-programa\obj\Debug\net7.0\Media-aluno-programa.dll
+C:\Users\50849167825\Desktop\backend\Media-aluno-programa\obj\Debug\net7.0\refint\Media-aluno-programa.dll
+C:\Users\50849167825\Desktop\backend\Media-aluno-programa\obj\Debug\net7.0\Media-aluno-programa.pdb
+C:\Users\50849167825\Desktop\backend\Media-aluno-programa\obj\Debug\net7.0\Media-aluno-programa.genruntimeconfig.cache
+C:\Users\50849167825\Desktop\backend\Media-aluno-programa\obj\Debug\net7.0\ref\Media-aluno-programa.dll
